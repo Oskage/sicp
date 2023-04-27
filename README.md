@@ -6,6 +6,6 @@ This repo contains my solutions for exercises from "Structure and Interpretation
 
 To run specific exercise:
 
-'''bash
-$ mit-scheme --load solutions/<num>/solution.scm
-'''
+```bash
+mit-scheme --load solutions/<num>/solution.scm
+```
